@@ -1,0 +1,8 @@
+build
+include
+Makefile
+NovaShell.pdf
+out.txt
+Screenshot 2025-12-14 at 04.12.26.png
+Screenshot 2025-12-14 at 04.13.39.png
+src
