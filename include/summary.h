@@ -1,10 +1,11 @@
 #ifndef SUMMARY_H
 #define SUMMARY_H
 
-void summary_init();
-void summary_command();
-void summary_background();
-void summary_pipe();
-void summary_print();
+void summary_init(void);
+void summary_command(void);
+void summary_background(void);
+void summary_pipe(void);
+void summary_error(void);
+void summary_print(void);
 
-#endif
+#endif /* SUMMARY_H */

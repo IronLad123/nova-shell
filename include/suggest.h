@@ -1,6 +1,7 @@
 #ifndef SUGGEST_H
 #define SUGGEST_H
 
-void suggest_command(char *cmd);
+/* suggest_command — print the closest matching command from $PATH */
+void suggest_command(const char *cmd);
 
-#endif
+#endif /* SUGGEST_H */
